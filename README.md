@@ -1,4 +1,4 @@
-# ✨ Mini Streamlit App
+✨ Mini Streamlit App
 
 A small and attractive **Streamlit app** built for learning and demo purposes.  
 It includes multiple sections:
@@ -9,7 +9,7 @@ It includes multiple sections:
 
 ---
 
-## 🚀 Features
+🚀 Features
 - Simple and interactive UI with Streamlit  
 - Collect user input using forms  
 - Generate random charts with Pandas + Numpy  
@@ -17,9 +17,9 @@ It includes multiple sections:
 
 ---
 
-## 🛠️ Installation
+🛠️ Installation
 
 Clone the repository:
 ```bash
-git clone https://github.com/YOUR-USERNAME/streamlitgit
+git clone https://github.com/YOUR-USERNAME/mini-streamlit-app.git
 cd mini-streamlit-app
